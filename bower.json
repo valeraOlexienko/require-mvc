@@ -1,0 +1,25 @@
+{
+  "name": "Require Sample",
+  "version": "0.0.1",
+  "authors": [
+    "Valery Olexienko <v.olexienko@gmail.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "backbone-amd": null,
+    "underscore-amd": null,
+    "requirejs": null
+  }
+}
